@@ -27,8 +27,20 @@ public class Constructors {
 		System.out.println(name);
 		System.out.println(k);
 		System.out.println(t);
-		
+		//
 
 	}
 
+}
+class A 
+{
+	
+}
+class B Extends A
+{
+	
+}
+class C Extends B 
+{
+	
 }
