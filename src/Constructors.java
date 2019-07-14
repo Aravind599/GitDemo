@@ -54,7 +54,13 @@ public class Constructors {
 		System.out.println("american develop 2");
 		System.out.println("american develop 3");
 		System.out.println("american develop 4");
+		
+		System.out.println("asian guy push to develop 2");
+		System.out.println("asian guy  push to develop 2");
+		System.out.println("asian guy  push to develop 2");
+		System.out.println("asian guy push to develop 2");
 	}
+	
 
 }
 class A 
