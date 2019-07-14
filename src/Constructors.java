@@ -59,6 +59,11 @@ public class Constructors {
 		System.out.println("asian guy  push to develop 2");
 		System.out.println("asian guy  push to develop 2");
 		System.out.println("asian guy push to develop 2");
+		
+		System.out.println("american guy push to develop 2");
+		System.out.println("american guy  push to develop 2");
+		System.out.println("american guy  push to develop 2");
+		System.out.println("american guy push to develop 2");
 	}
 	
 
