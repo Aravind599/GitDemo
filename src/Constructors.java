@@ -49,6 +49,11 @@ public class Constructors {
 		System.out.println("asian develop 1");
 		System.out.println("asian develop 1");
 		System.out.println("asian develop 1");
+		
+		System.out.println("american develop 1");
+		System.out.println("american develop 2");
+		System.out.println("american develop 3");
+		System.out.println("american develop 4");
 	}
 
 }
